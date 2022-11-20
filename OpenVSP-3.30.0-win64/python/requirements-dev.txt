@@ -1,0 +1,5 @@
+-e utilities
+-e degen_geom
+-e openvsp
+-e CHARM
+pytest

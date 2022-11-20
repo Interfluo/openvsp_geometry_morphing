@@ -1,0 +1,6 @@
+void main()
+{
+	ComputeCompGeom( 0, false, NO_FILE_TYPE );
+	ExportFile( "OpenVSP-3.30.0-win64/missile_generic/cart3d_geom.tri", 0, EXPORT_CART3D );
+	ExportFile( "OpenVSP-3.30.0-win64/missile_generic/obj_geom.obj", 0, EXPORT_OBJ );
+}

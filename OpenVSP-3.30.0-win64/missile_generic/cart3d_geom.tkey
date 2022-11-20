@@ -1,0 +1,9 @@
+# VSP Tag Key File
+OpenVSP-3.30.0-win64/missile_generic/cart3d_geom.tri
+5
+
+1,Fuselage_Surf0
+2,Fin_horizontal_Surf0
+3,Fin_horizontal_Surf1
+4,Fin_vertical_Surf0
+5,Fin_vertical_Surf1
