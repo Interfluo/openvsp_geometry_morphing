@@ -4,17 +4,17 @@
 26904 Total Num Tris
 
 Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
-   17.709     17.709      3.073      3.073  Fuselage       
-    1.298      1.298      0.018      0.018  Fin_horizontal 
-    1.298      1.298      0.018      0.018  Fin_horizontal 
-    1.298      1.298      0.018      0.018  Fin_vertical   
-    1.298      1.298      0.018      0.018  Fin_vertical   
+   11.088     11.088      1.883      1.883  Fuselage       
+    0.985      0.985      0.014      0.014  Fin_horizontal 
+    0.985      0.985      0.014      0.014  Fin_horizontal 
+    0.985      0.985      0.014      0.014  Fin_vertical   
+    0.985      0.985      0.014      0.014  Fin_vertical   
 -------------------------------------------------
-   22.903     22.903      3.146      3.146  Totals         
+   15.028     15.028      1.937      1.937  Totals         
 
 Tag_Theo_Area   Tag_Wet_Area    Tag_Name
-       17.709         17.709    Fuselage_Surf0 
-        1.298          1.298    Fin_horizontal_Surf0
-        1.298          1.298    Fin_horizontal_Surf1
-        1.298          1.298    Fin_vertical_Surf0
-        1.298          1.298    Fin_vertical_Surf1
+       11.088         11.088    Fuselage_Surf0 
+        0.985          0.985    Fin_horizontal_Surf0
+        0.985          0.985    Fin_horizontal_Surf1
+        0.985          0.985    Fin_vertical_Surf0
+        0.985          0.985    Fin_vertical_Surf1

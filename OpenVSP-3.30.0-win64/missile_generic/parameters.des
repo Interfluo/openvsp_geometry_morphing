@@ -1,8 +1,15 @@
 4
-IZKPAITWCCT:UserParms:Default_Group:Fins_pitch: 30
-LUKIKPRLILV:UserParms:Default_Group:Fins_span: 1
-HFEXCIXQFXN:UserParms:Default_Group:Fins_yaw: 30
-DYFPRCZSLSY:UserParms:Default_Group:Length: 8
+IZKPAITWCCT:UserParms:Default_Group:Fins_pitch: 20
+LUKIKPRLILV:UserParms:Default_Group:Fins_span: 0.75
+HFEXCIXQFXN:UserParms:Default_Group:Fins_yaw: -20
+DYFPRCZSLSY:UserParms:Default_Group:Length: 5
+
+
+
+
+
+
+
 
 
 
