@@ -78,7 +78,9 @@ def vsp_directories(case):
     return vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath
 
 
-[vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath] = vsp_directories('missile_generic')
+[vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath] = vsp_directories('wing_generic')
+if True:  # set to true to modify script file instead od des file
+    filepath = scriptpath
 
 window = tk.Tk()
 window.title("Text Editor Application")
