@@ -17,7 +17,7 @@ void main()
 	float u2 		= 0.5;
 	float l1 		= 0.1;
 	float l2 		= 0.75;
-	float dcs		= 45.0;
+	float dcs		= 0.0;
 
 	
 	customWing(x0, y0, z0, cr, ct, b, dihedral, sweep, u1, u2, l1, l2, dcs, numU, numW);
@@ -191,6 +191,7 @@ void customWing(float x0,float y0, float z0, float cr, float ct, float b, float 
 	SetParmVal( hinge, "JointRotate", "Hinge", dcs );	
 	Update();
 }
+
 
 
 

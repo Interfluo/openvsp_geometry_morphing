@@ -64,7 +64,7 @@ def find(name, path, arg):
                 return os.path.join(root)
 
 
-def vsp_directories(case):
+def vsp_directories(case, type):
     """
 
     """
@@ -75,12 +75,13 @@ def vsp_directories(case):
     scriptpath = os.path.join(vsp_path, case, 'script.vspscript')
     filepath = os.path.join(os.getcwd(), despath)
     objpath = os.path.join(vsp_path, case, 'obj_geom.obj')
+
+    if type=="script":
+        filepath = scriptpath
     return vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath
 
 
-[vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath] = vsp_directories('wing_generic')
-if True:  # set to true to modify script file instead od des file
-    filepath = scriptpath
+[vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath] = vsp_directories('wing_generic', 'script')
 
 window = tk.Tk()
 window.title("Text Editor Application")
