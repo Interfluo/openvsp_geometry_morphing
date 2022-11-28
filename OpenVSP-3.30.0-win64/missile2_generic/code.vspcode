@@ -1,0 +1,17 @@
+x_pf = 0.85*Length;
+x_yf = 0.85*Length;
+length = Length;
+
+yr_pf=de;
+yr_yf=dr;
+
+b1 = b;
+b2 = b;
+
+cr1=cr;
+ct1=ct;
+cr2=cr;
+ct2=ct;
+
+sweep1=sweep;
+sweep2=sweep;

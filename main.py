@@ -81,7 +81,7 @@ def vsp_directories(case, type):
     return vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath
 
 
-[vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath] = vsp_directories('wing_generic', 'script')
+[vsp_path, exepath, vsppath, despath, scriptpath, filepath, objpath] = vsp_directories('missile2_generic', 'script_n')
 
 window = tk.Tk()
 window.title("Text Editor Application")

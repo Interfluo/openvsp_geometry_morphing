@@ -1,0 +1,20 @@
+...Comp Geom...
+3 Num Comps
+5 Total Num Meshes
+21104 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+    7.025      6.976      0.476      0.472  Fuselage       
+    0.178      0.173      0.001      0.001  Pitch_Fin      
+    0.178      0.173      0.001      0.001  Pitch_Fin      
+    0.178      0.173      0.001      0.001  Yaw_Fin        
+    0.178      0.173      0.001      0.001  Yaw_Fin        
+-------------------------------------------------
+    7.738      7.667      0.482      0.477  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+        7.025          6.976    Fuselage_Surf0 
+        0.178          0.173    Pitch_Fin_Surf0
+        0.178          0.173    Pitch_Fin_Surf1
+        0.178          0.173    Yaw_Fin_Surf0  
+        0.178          0.173    Yaw_Fin_Surf1  
