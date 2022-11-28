@@ -1,0 +1,26 @@
+...Comp Geom...
+4 Num Comps
+8 Total Num Meshes
+55488 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+   13.922     13.908      0.914      0.914  section_1      
+   13.922     13.918      0.914      0.914  section_1      
+    3.368      3.189      0.155      0.155  section_2      
+    3.368      3.189      0.155      0.155  section_2      
+    0.675      0.673      0.018      0.018  section_3      
+    0.675      0.656      0.018      0.018  section_3      
+    1.182      1.022      0.020      0.020  control_surface
+    1.182      1.022      0.020      0.020  control_surface
+-------------------------------------------------
+   38.294     37.577      2.215      2.229  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+       13.922         13.908    section_1_Surf0
+       13.922         13.918    section_1_Surf1
+        3.368          3.189    section_2_Surf0
+        3.368          3.189    section_2_Surf1
+        0.675          0.673    section_3_Surf0
+        0.675          0.656    section_3_Surf1
+        1.182          1.022    control_surface_Surf0
+        1.182          1.022    control_surface_Surf1
